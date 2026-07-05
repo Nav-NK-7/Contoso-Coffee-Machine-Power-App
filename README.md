@@ -34,16 +34,6 @@ The application splits inventory into 4 core functional categories through an in
 
 ---
 
-## 📸 Interface Preview
-
-### Commercial Espresso Catalog
-![Commercial Espresso](assets/Commercial_expresso_machine.jpg)
-
-### At Home Espresso Catalog
-![Home Espresso](assets/Home_Expresso_Machines.jpg)
-
----
-
 ## 📐 Business Analysis Artifacts Demonstrated
 * **User Story Validation:** Utilized this functional mock-up to map out real user stories regarding e-commerce browsing behavior.
 * **Data Architecture Mapping:** Organized product pricing rules, asset naming conventions, and categorization tags into flattened collections mimicking a production database model.
